@@ -38,6 +38,9 @@ import java.util.*;
 @Controller
 public class ActivityController {
 
+
+    int b = 1;
+
     @Autowired
     private UserService userService;
 
